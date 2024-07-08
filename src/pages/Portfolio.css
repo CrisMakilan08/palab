@@ -14,13 +14,16 @@
 }
 #portfolio .two {
     width: 200px;
+    height: 200px;
 }
 #portfolio .three {
     width: 200px;
-    height: 235px;
+    height: 200px;
+    margin-left: 10%;
 }
 #portfolio .four {
     width: 200px;
+    height: 200px;
 }
 
 #portfolio h4:hover {
@@ -32,12 +35,16 @@
     transition: all .5s ease;
   
   }
+  
 
   
 #portfolio .one:hover {
     width: 400px;
     transition: all .5s ease;
   
+  }
+  #portfolio h3 {
+    color: aliceblue;
   }
 
   

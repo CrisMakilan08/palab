@@ -1,9 +1,9 @@
 import "./Portfolio.css";
 import Navbar from "./Navbar";
 import calcuImage2 from "./img/calculator.png";
-import ontoy1Image from "./img/cris1.jpg";
+import ontoy1Image from "./img/laway.png";
 import ontoy2Image from "./img/flochart.png";
-import jao5Image from "./img/tisoy.jpg";
+import jao5Image from "./img/toto.png";
 
 const Portfolio = () => {
   return (

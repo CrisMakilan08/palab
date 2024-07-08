@@ -6,7 +6,7 @@
 #home-info {
     background: rgb(white); 
     width: 100%;
-    height: 80%; 
+    height: 100%; 
     
 }
 
@@ -14,8 +14,7 @@
     padding: top 70px;
     background-color: rgb(brown);
     margin-bottom: 10%;
-    border: 1px solid black;
-    border-radius: 40px; 
+    margin-top: 1
 
 }
 
@@ -27,13 +26,9 @@
 #home-info img {
    align-self: center;
    margin-left: 50%;
-   height: 55vh;
-   margin-top: 3%;
-   background-color: powderblue;
-   border-radius: 100px;
-   height: 60vh;
-
-
+   height: 450px;
+   margin-top: 2%;
+   border-radius: 200px;
 }
 
 #home-info .jao {
@@ -178,4 +173,8 @@
         border-radius: 50%;
     }
 
+}
+
+body {
+    background-image: url('img/R.jpg');
 }

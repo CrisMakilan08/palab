@@ -28,7 +28,7 @@ const Home = () => {
               <h2 className=" fw-bold display-3 text-center text-black mb-5">
                 Greetings.. <br/> I'm Cris B. Makilan
               </h2>
-              <h4 className=" text-black text-center mt-5"> I am a Song Writer and I am a Basketball Player Since our HighSchool And the Collage and a dedicated student. </h4>
+              <h4 className=" text-black text-center mt-5"> I am a Song Writer and I am a Basketball Player Since our HighSchool And the College and a dedicated student. </h4>
               <center>
               <a href="/about" className="btn shadow mt-5 fw-bold">
                 See My Work
